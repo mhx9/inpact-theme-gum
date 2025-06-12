@@ -936,14 +936,14 @@
           "type": "item",
           "settings": {
             "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "content": "<p>Oui, et c’est <strong>la promesse principale d’Ovaïa.</strong></p><p>L’odeur corporelle est influencée par ton <strong>équilibre intérieur</strong> : flore intestinale, flore intime, pH, digestion, stress, hormones…<br/><br/>Quand ces équilibres sont perturbés, ton corps peut dégager une odeur plus forte, acide ou désagréable.</p><p>Ovaïa agit à la <strong>source</strong> de ces déséquilibres :</p><ul><li>Le probiotique Bacillus Coagulans SNZ1969™ rééquilibre la flore et le pH<br/></li><li>L'ananas apporte une note subtile de fraîcheur<br/></li><li>La vitamine C soutient les muqueuses et la peau<br/></li></ul><p>Résultat : ton <strong>odeur naturelle est plus douce, plus neutre</strong>, plus “toi”.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "En combien de temps vais-je voir des résultats ?",
+            "content": "<p>Chaque corps est unique, mais les premières clientes ressentent généralement une <strong>différence en 7 à 14 jours</strong> :<br/><br/>- Moins d’odeurs désagréables ou “acides”</p><p>- Une sensation de fraîcheur plus durable</p><p>- Plus de confort intime et digestif</p><p>- Une meilleure confiance corporelle<br/><br/>Pour un résultat optimal et durable, nous recommandons une <strong>cure de 30 jours minimum</strong>, à renouveler régulièrement pour un équilibre profond.</p>"
           }
         }
       },
