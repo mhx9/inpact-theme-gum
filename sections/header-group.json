@@ -24,6 +24,20 @@
         "message_8t8Q3x": {
           "type": "message",
           "settings": {
+            "text": "SATISFAIT OU REMBOURSÉ",
+            "url": ""
+          }
+        },
+        "message_ahqGbV": {
+          "type": "message",
+          "settings": {
+            "text": "OFFRE -50% Aujourd'hui Uniquement",
+            "url": ""
+          }
+        },
+        "message_RbEznQ": {
+          "type": "message",
+          "settings": {
             "text": "Announce something here",
             "url": ""
           }
@@ -31,7 +45,9 @@
       },
       "block_order": [
         "message",
-        "message_8t8Q3x"
+        "message_8t8Q3x",
+        "message_ahqGbV",
+        "message_RbEznQ"
       ],
       "settings": {
         "enable_sticky": false,
