@@ -9,44 +9,15 @@
  */
 {
   "sections": {
-    "video_EVd437": {
-      "type": "video",
-      "blocks": {
-        "play_yYi8Cp": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_UNDGG9": {
-          "type": "heading",
-          "settings": {
-            "text": "OVAÏA",
-            "heading_tag": "h1"
-          }
-        },
-        "heading_NmeUK6": {
-          "type": "heading",
-          "settings": {
-            "text": "ce que la nature fait de mieux",
-            "heading_tag": "h3"
-          }
-        }
-      },
-      "block_order": [
-        "play_yYi8Cp",
-        "heading_UNDGG9",
-        "heading_NmeUK6"
-      ],
-      "name": "Video",
+    "rich_text_GReJfD": {
+      "type": "rich-text",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "fill",
-        "video": "shopify://files/videos/dd3eb15377184f11a38274b84292370e.SD-480p-1.0Mbps-39379282.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "slideshow": {
@@ -55,11 +26,13 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/fond_off_titre_ordi_1.png",
+            "mobile_image": "shopify://shop_images/mobile_Fond_ecran.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -67,7 +40,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
@@ -75,19 +48,21 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/fond_titre_ordi_1.png",
+            "mobile_image": "shopify://shop_images/Photo_groupe_ami_1.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h2",
             "button_text": "",
             "button_link": "",
-            "text_color": "#ffffff",
+            "text_color": "#552d23",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
@@ -97,7 +72,6 @@
         "slide-1",
         "slide-2"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
@@ -110,69 +84,22 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "logo_list_b9gzUT": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_cTw8gn": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_RpUL7B": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/logo_cos.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_JamN7W": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Kein_Titel_240_x_240_px_10_1.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_Y8LcAD": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Womenshealthlogo_svg.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_cTw8gn",
-        "logo_RpUL7B",
-        "logo_JamN7W",
-        "logo_Y8LcAD"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "Vu sur :",
-        "content": "",
-        "text_alignment": "center",
-        "items_per_row": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
         "1664424046b00c932c-0": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_wedmGK": {
           "type": "item",
           "settings": {
             "stretch_image": true,
@@ -197,6 +124,18 @@
           }
         },
         "1664424046b00c932c-2": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_44BBw8": {
           "type": "item",
           "settings": {
             "stretch_image": true,
@@ -235,11 +174,14 @@
       },
       "block_order": [
         "1664424046b00c932c-0",
+        "item_wedmGK",
         "1664424046b00c932c-1",
         "1664424046b00c932c-2",
+        "item_44BBw8",
         "1664424046b00c932c-3",
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "block_size": "medium",
@@ -257,6 +199,7 @@
     },
     "scrolling-text": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "text": "Promotion text",
@@ -268,6 +211,287 @@
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
+      }
+    },
+    "logo_list_XiFDfh": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_FjKYGK": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_b8g3JU": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo_cos.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_GePLdG": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Kein_Titel_240_x_240_px_10_1.png",
+            "logo_width": 80,
+            "link": ""
+          }
+        },
+        "logo_R4jPwY": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Womenshealthlogo_svg.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_FjKYGK",
+        "logo_b8g3JU",
+        "logo_GePLdG",
+        "logo_R4jPwY"
+      ],
+      "custom_css": [],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur :",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_H3cQM3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_m4M6p6": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir la Lime Électrique Scholl Derma ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_m4M6p6"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 10px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_hNAfRB": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/bienfaits_ordi_1_14d6db51-3eff-4c77-b43d-4b66761a261e.png",
+        "mobile_image": "shopify://shop_images/bienfaits.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "media_with_text_TWDNip": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_7Dfg96": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_ohne_Titel_7_1.gif",
+            "media_width": 35,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<h3><strong>Le SEUL appareil anti-callosités dont vous aurez jamais besoin.</strong></h3><p>Fini les râpes douloureuses et les talons secs !</p><p><strong>Scholl Derma Pro élimine la corne en douceur, de manière hygiénique et visiblement efficace — directement chez vous.</strong></p><p>✔️ <strong>Des pieds lisses dès la première utilisation</strong><br/><br/>✔️ <strong>Économisez du temps, de l’argent et de l’énergie — pour de bon</strong><br/><br/>✔️ <strong>Retrouvez enfin le plaisir de marcher pieds nus en toute confiance</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#fcdae0",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_7Dfg96"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "media_with_text_WH4Fg6": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_YPMCeG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_ohne_Titel_6_2.gif",
+            "media_width": 30,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Avant / Après avec Scholl Derma Pro",
+            "content": "<h5>Ne cachez plus jamais vos pieds. Prenez confiance en vous avec Scholl Derma Pro, une seule fois suffit pour ne plus vous en passer.</h5>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#fcdae0",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_YPMCeG"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "featured_product_MXYQBL": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_JnaxNN": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "title_qJ7EiF": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_RtateR": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_AGAiGX": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_z8CVFH": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_qAP9tN": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_QEGK6V": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_qT9BAC": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_y9FPCg": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "countdown_timer_essential_app_block_FRMeRJ": {
+          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "disabled": true,
+          "settings": {
+            "id": "cmbmtg5aa0069p4f21wes646v"
+          }
+        },
+        "buy_buttons_MVxw9r": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_ncc8AC": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_JnaxNN",
+        "title_qJ7EiF",
+        "badges_RtateR",
+        "price_AGAiGX",
+        "rating_z8CVFH",
+        "separator_qAP9tN",
+        "description_QEGK6V",
+        "variant_picker_qT9BAC",
+        "quantity_selector_y9FPCg",
+        "countdown_timer_essential_app_block_FRMeRJ",
+        "buy_buttons_MVxw9r",
+        "pickup_availability_ncc8AC"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "schollderma-pro-avec-60-coussinets-de-glissement-gratuits",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
       }
     },
     "collection-list": {
@@ -321,6 +545,7 @@
         "collection-2",
         "collection-3"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_collections": false,
@@ -340,6 +565,7 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "",
         "products": [],
@@ -363,11 +589,36 @@
         "product_card_text_color": ""
       }
     },
+    "before-after-image": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Avant/Après",
+        "content": "<p><strong>ShcollDerma Pro</strong> élimine même les callosités les plus tenaces en quelques minutes – en douceur, sans douleur, et directement depuis chez vous.<br/></p><h2><strong>95 %</strong></h2><p>ont constaté une amélioration visible de la texture de leur peau dès la première utilisation.</p><p></p><h2><strong>100 %</strong></h2><p>affirment avoir des pieds plus doux et souples, sans zones rugueuses ni sécheresse.</p><p></p><h2><strong>99 %</strong></h2><p>utilisent ShcollDerma régulièrement car il élimine la corne efficacement tout en améliorant leur bien-être au quotidien.<br/></p>",
+        "before_image": "shopify://shop_images/image.webp",
+        "after_image": "shopify://shop_images/1image.webp",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "bottom",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 35,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
         "1664424181b38582d5-0": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "100%",
             "subheading": "Showcase a benefit of your product",
@@ -426,6 +677,7 @@
         "1664424230c4756b0e-1",
         "1664424230c4756b0e-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -532,6 +784,7 @@
         "item-3",
         "29246d34-c6e0-4373-84f6-b15e57736a00"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "reduce_width": false,
@@ -541,26 +794,20 @@
         "background_gradient": ""
       }
     },
-    "before-after-image": {
-      "type": "before-after-image",
+    "image_with_text_overlay_QLVCEq": {
+      "type": "image-with-text-overlay",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/table_compare.png",
+        "mobile_image": "shopify://shop_images/table_mobile.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "press": {
@@ -591,6 +838,7 @@
         "16644243327ba53d2a-0",
         "16644243327ba53d2a-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -648,6 +896,7 @@
         "1664424434f5b7d0e0-1",
         "1664424434f5b7d0e0-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "title": "",
@@ -700,6 +949,7 @@
         "1664424486a2b084ab-0",
         "1664424486a2b084ab-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "images_layout": "scattered",
@@ -788,6 +1038,7 @@
         "quantity-selector",
         "buy-buttons"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "product": "",
@@ -923,77 +1174,72 @@
         "chart_true_false_color": ""
       }
     },
+    "17493421910f80ce8c": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Ovaïa, c’est pour quoi exactement ?",
-            "content": "<p>Ovaïa est un complément bien-être sous forme de délicieux gummies, conçu pour aider les femmes à <strong>retrouver une odeur corporelle naturellement douce et agréable</strong>, en agissant <strong>de l’intérieur</strong>.</p><p>Grâce à une combinaison unique de <strong>probiotiques, d’extrait d’ananas et de vitamine C</strong>, Ovaïa contribue à :<br/><br/>- Réduire les odeurs corporelles fortes ou acides (zones intimes, aisselles, transpiration)<br/><br/>- Rééquilibrer la flore intime et digestive<br/><br/>- Apporter une sensation de fraîcheur subtile et durable<br/><br/>- Renforcer la confiance en soi et la sérénité corporelle</p><p>C’est une solution <strong>naturelle, clean et efficace</strong>, pensée pour les femmes qui veulent <strong>se sentir bien dans leur odeur, leur peau et leur féminité.</strong></p>"
+            "title": "Le SchollDerma Pro est-il testé selon les normes de sécurité en vigueur (GPSR) ?",
+            "content": "<p>Oui!</p><p>Notre <strong>SchollDerma Pro</strong> est conforme aux exigences du <strong>règlement UE 2023/988 (Règlement général sur la sécurité des produits - GPSR)</strong> sur la sécurité générale des produits.<br/></p><p><strong>Informations importantes :</strong></p><ul><li>Le produit a été testé pour la sécurité électrique.<br/></li><li>Des analyses de risques et des tests de produits ont été réalisés.<br/></li><li>Toutes les instructions de sécurité et d'application pertinentes sont<br/></li><li>﻿﻿Une utilisation sûre à la maison est garantie.<br/></li></ul><p><strong>Responsable de la sécurité des produits :</strong></p><p>Raison sociale : SchollDermaFrance<br/>Nom commercial : SchollDerma<br/>Adresse : 16 Rue Pasquier, 75008 Paris<br/>Contact :<a>contact@schollderma.fr<br/></a>Site internet :<a href=\"https://kumika.fr/\">https://schollderma.fr</a></p><p>Si vous avez d’autres questions sur la sécurité des produits, n’hésitez pas à nous contacter à tout moment !</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Comment les gummies agissent sur l’odeur corporelle ?",
-            "content": "<p>Oui, et c’est <strong>la promesse principale d’Ovaïa.</strong></p><p>L’odeur corporelle est influencée par ton <strong>équilibre intérieur</strong> : flore intestinale, flore intime, pH, digestion, stress, hormones…<br/><br/>Quand ces équilibres sont perturbés, ton corps peut dégager une odeur plus forte, acide ou désagréable.</p><p>Ovaïa agit à la <strong>source</strong> de ces déséquilibres :</p><ul><li>Le probiotique Bacillus Coagulans SNZ1969™ rééquilibre la flore et le pH<br/></li><li>L'ananas apporte une note subtile de fraîcheur<br/></li><li>La vitamine C soutient les muqueuses et la peau<br/></li></ul><p>Résultat : ton <strong>odeur naturelle est plus douce, plus neutre</strong>, plus “toi”.</p>"
+            "title": "Comment fonctionne SchollDerma ?",
+            "content": "<p>SchollDerma utilise un disque abrasif rotatif pour éliminer efficacement et en douceur les callosités. Selon l'accessoire utilisé, l'appareil convient aux peaux sensibles, normales ou fortement calleuses. Il suffit de l'allumer, de le déplacer sur les zones concernées et le tour est joué !</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "En combien de temps vais-je voir des résultats ?",
-            "content": "<p>Chaque corps est unique, mais les premières clientes ressentent généralement une <strong>différence en 7 à 14 jours</strong> :<br/><br/>- Moins d’odeurs désagréables ou “acides”</p><p>- Une sensation de fraîcheur plus durable</p><p>- Plus de confort intime et digestif</p><p>- Une meilleure confiance corporelle<br/><br/>Pour un résultat optimal et durable, nous recommandons une <strong>cure de 30 jours minimum</strong>, à renouveler régulièrement pour un équilibre profond.</p>"
+            "title": "À quelle fréquence dois-je utiliser l'appareil ?",
+            "content": "<p>Cela dépend de votre type de peau. En général, <strong>une à deux applications par semaine </strong>suffisent pour garder des pieds lisses et durables. Si vous avez des callosités importantes, vous pouvez l'utiliser plus souvent, mais veillez à ne pas trop traiter votre peau.<br/><br/></p>"
           }
         },
-        "item_M9eiWq": {
+        "item_FXCirL": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ça remplace le parfum ou le déodorant ?",
-            "content": "<p>Non, Ovaïa <strong>n’est pas un produit de surface</strong>.<br/><br/>C’est un complément alimentaire qui agit <strong>de l’intérieur</strong>, là où les déséquilibres se créent.</p><p>Il <strong>ne masque pas</strong> les odeurs comme un parfum ou un déo.<br/><br/>Il les <strong>neutralise naturellement</strong> en équilibrant ton microbiote et ton pH.</p><p>Tu peux bien sûr continuer à utiliser ton parfum préféré, mais avec Ovaïa, tu te sentiras <strong>plus propre, plus fraîche et plus à l’aise</strong> naturellement, même sans rien.</p>"
+            "title": "Puis-je également utiliser l'appareil sous la douche ?",
+            "content": "<p>SchollDerma <strong>n'est pas étanche</strong>. Veuillez l'utiliser uniquement sur <strong>peau sèche </strong>et nettoyer l'appareil avec un chiffon légèrement humide après utilisation. Les têtes de meulage sont lavables.<br/><br/></p>"
           }
         },
-        "item_EFLare": {
+        "item_ycUt3H": {
           "type": "item",
           "settings": {
-            "title": "Puis-je l’utiliser même si je n’ai pas de “problèmes” d’odeur ?",
-            "content": "<p>Absolument. Ovaïa n’est pas réservé aux femmes qui souffrent d’un déséquilibre évident.</p><p>C’est un rituel de soin préventif, qui :<br/>- Renforce ta flore intime au quotidien<br/>- Améliore ton confort digestif et intime<br/>- Maintient une odeur corporelle naturelle plus harmonieuse<br/>- Soutient ton immunité et ta peau<br/><br/>Si tu veux simplement te sentir encore plus fraîche, alignée et confiante, Ovaïa est fait pour toi.</p>"
+            "title": "L'application est-elle douloureuse ?",
+            "content": "<p>Non ! SchollDerma agit <strong>en douceur sur la peau</strong>, sans la couper. Vous ne ressentirez qu'une légère sensation abrasive. Utilisé correctement, le traitement est totalement indolore.</p>"
           }
         },
-        "item_ggpXMX": {
+        "item_JcfQdm": {
           "type": "item",
           "settings": {
-            "title": "Y a-t-il des effets secondaires ? Est-ce sans danger ?",
-            "content": "<p>Oui, Ovaïa est sans danger pour les adultes en bonne santé.</p><p>Notre formule est :<br/>✅ Vegan<br/>✅ Sans sucre<br/>✅ Sans allergènes<br/>✅ Sans OGM<br/>✅ Halal-friendly<br/><br/>Les ingrédients sont cliniquement testés, bien tolérés et adaptés à une prise quotidienne.<br/><br/>Il n’y a aucun effet secondaire connu, mais comme tout complément :<br/>Si tu es <strong>enceinte, allaitante, ou sous traitement médical, demande l’avis de ton médecin avant utilisation.</strong><br/><br/></p>"
+            "title": "Comment SchollDerma est-il chargé et combien de temps dure la batterie ?",
+            "content": "<p>L'appareil se recharge facilement grâce <strong>au câble USB fourni</strong>. Une charge complète suffit pour plusieurs utilisations, selon la durée d'utilisation. L'<strong>écran numérique </strong>indique le niveau de batterie en permanence.</p>"
           }
         },
-        "item_DyBBwb": {
+        "item_qiyTBi": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que c’est efficace contre les mycoses, irritations, sécheresse ?",
-            "content": "<p>Ovaïa n’est pas un médicament, mais il aide à prévenir les déséquilibres qui peuvent favoriser :<br/>- Mycoses vaginales<br/>- Sécheresse intime<br/>- Irritations ou gênes digestives<br/><br/>En rééquilibrant ta flore et ton pH, tu renforces tes défenses naturelles et tu réduis les risques de récidives.<br/>C’est un soutien quotidien en douceur, pour une flore intime stable et saine.</p>"
-          }
-        },
-        "item_pXGiY3": {
-          "type": "item",
-          "settings": {
-            "title": "Comment dois-je le prendre, et à quelle fréquence ?",
-            "content": "<p>C’est très simple :<br/>- 2 gummies par jour<br/>- Quand tu veux (matin ou soir)<br/>- Avec ou sans repas<br/><br/>Pas besoin d’eau, ni de comprimé à avaler.<br/>C’est un rituel plaisir, au bon goût d’ananas doux et naturel, qui s’intègre parfaitement dans ta routine.</p>"
-          }
-        },
-        "item_UMVzXC": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce adapté aux femmes enceintes, allaitantes ou sous traitement ?",
-            "content": "<p>Par précaution, Ovaïa n’est pas recommandé sans avis médical :<br/>- En cas de grossesse ou allaitement<br/>- Si tu suis un traitement (notamment hormonal, digestif ou antibiotique)<br/><br/>Nos ingrédients sont clean et sûrs, mais ton état de santé mérite une attention personnalisée.</p>"
-          }
-        },
-        "item_GfNnTE": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je l’associer à d’autres compléments alimentaires ?",
-            "content": "<p>Oui, Ovaïa est généralement compatible avec la plupart des compléments (fer, collagène, magnésium, vitamines, etc.).<br/><br/>Seule recommandation :<br/>Évite de cumuler plusieurs probiotiques différents sans l’avis d’un professionnel de santé, pour ne pas perturber ta flore.</p>"
+            "title": "Comment puis-je retourner le produit si je ne suis pas satisfait ?",
+            "content": "<p>Vous pouvez essayer SchollDerma sans risque pendant <strong>30 jours</strong>. Si vous n'êtes pas satisfait, écrivez-nous simplement et nous vous rembourserons le prix d'achat (à condition que l'appareil soit en bon état). Vous trouverez toutes les informations dans notre politique de retour.<br/><br/></p>"
           }
         }
       },
@@ -1001,22 +1247,19 @@
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_M9eiWq",
-        "item_EFLare",
-        "item_ggpXMX",
-        "item_DyBBwb",
-        "item_pXGiY3",
-        "item_UMVzXC",
-        "item_GfNnTE"
+        "item_FXCirL",
+        "item_ycUt3H",
+        "item_JcfQdm",
+        "item_qiyTBi"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Notre service client est disponible du lundi au vendredi de 9h00 à 18h00.",
+        "answer_time": "Temps de réponse estimé : 2 à 4 heures",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
@@ -1033,22 +1276,29 @@
     }
   },
   "order": [
-    "video_EVd437",
+    "rich_text_GReJfD",
     "slideshow",
-    "logo_list_b9gzUT",
     "image-link-blocks",
     "scrolling-text",
+    "logo_list_XiFDfh",
+    "rich_text_H3cQM3",
+    "image_with_text_overlay_hNAfRB",
+    "media_with_text_TWDNip",
+    "media_with_text_WH4Fg6",
+    "featured_product_MXYQBL",
     "collection-list",
     "featured-collection",
+    "before-after-image",
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
-    "before-after-image",
+    "image_with_text_overlay_QLVCEq",
     "press",
     "hot-spots",
     "multiple-images-with-text",
     "featured-product",
     "feature-chart",
+    "17493421910f80ce8c",
     "faq"
   ]
 }
