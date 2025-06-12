@@ -896,6 +896,7 @@
         "16644246508f6fa13a-1",
         "16644246508f6fa13a-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "Compare",
@@ -949,50 +950,50 @@
         "item_M9eiWq": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Est-ce que ça remplace le parfum ou le déodorant ?",
+            "content": "<p>Non, Ovaïa <strong>n’est pas un produit de surface</strong>.<br/><br/>C’est un complément alimentaire qui agit <strong>de l’intérieur</strong>, là où les déséquilibres se créent.</p><p>Il <strong>ne masque pas</strong> les odeurs comme un parfum ou un déo.<br/><br/>Il les <strong>neutralise naturellement</strong> en équilibrant ton microbiote et ton pH.</p><p>Tu peux bien sûr continuer à utiliser ton parfum préféré, mais avec Ovaïa, tu te sentiras <strong>plus propre, plus fraîche et plus à l’aise</strong> naturellement, même sans rien.</p>"
           }
         },
         "item_EFLare": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Puis-je l’utiliser même si je n’ai pas de “problèmes” d’odeur ?",
+            "content": "<p>Absolument. Ovaïa n’est pas réservé aux femmes qui souffrent d’un déséquilibre évident.</p><p>C’est un rituel de soin préventif, qui :<br/>- Renforce ta flore intime au quotidien<br/>- Améliore ton confort digestif et intime<br/>- Maintient une odeur corporelle naturelle plus harmonieuse<br/>- Soutient ton immunité et ta peau<br/><br/>Si tu veux simplement te sentir encore plus fraîche, alignée et confiante, Ovaïa est fait pour toi.</p>"
           }
         },
         "item_ggpXMX": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Y a-t-il des effets secondaires ? Est-ce sans danger ?",
+            "content": "<p>Oui, Ovaïa est sans danger pour les adultes en bonne santé.</p><p>Notre formule est :<br/>✅ Vegan<br/>✅ Sans sucre<br/>✅ Sans allergènes<br/>✅ Sans OGM<br/>✅ Halal-friendly<br/><br/>Les ingrédients sont cliniquement testés, bien tolérés et adaptés à une prise quotidienne.<br/><br/>Il n’y a aucun effet secondaire connu, mais comme tout complément :<br/>Si tu es <strong>enceinte, allaitante, ou sous traitement médical, demande l’avis de ton médecin avant utilisation.</strong><br/><br/></p>"
           }
         },
         "item_DyBBwb": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Est-ce que c’est efficace contre les mycoses, irritations, sécheresse ?",
+            "content": "<p>Ovaïa n’est pas un médicament, mais il aide à prévenir les déséquilibres qui peuvent favoriser :<br/>- Mycoses vaginales<br/>- Sécheresse intime<br/>- Irritations ou gênes digestives<br/><br/>En rééquilibrant ta flore et ton pH, tu renforces tes défenses naturelles et tu réduis les risques de récidives.<br/>C’est un soutien quotidien en douceur, pour une flore intime stable et saine.</p>"
           }
         },
         "item_pXGiY3": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Comment dois-je le prendre, et à quelle fréquence ?",
+            "content": "<p>C’est très simple :<br/>- 2 gummies par jour<br/>- Quand tu veux (matin ou soir)<br/>- Avec ou sans repas<br/><br/>Pas besoin d’eau, ni de comprimé à avaler.<br/>C’est un rituel plaisir, au bon goût d’ananas doux et naturel, qui s’intègre parfaitement dans ta routine.</p>"
           }
         },
         "item_UMVzXC": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Est-ce adapté aux femmes enceintes, allaitantes ou sous traitement ?",
+            "content": "<p>Par précaution, Ovaïa n’est pas recommandé sans avis médical :<br/>- En cas de grossesse ou allaitement<br/>- Si tu suis un traitement (notamment hormonal, digestif ou antibiotique)<br/><br/>Nos ingrédients sont clean et sûrs, mais ton état de santé mérite une attention personnalisée.</p>"
           }
         },
         "item_GfNnTE": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Puis-je l’associer à d’autres compléments alimentaires ?",
+            "content": "<p>Oui, Ovaïa est généralement compatible avec la plupart des compléments (fer, collagène, magnésium, vitamines, etc.).<br/><br/>Seule recommandation :<br/>Évite de cumuler plusieurs probiotiques différents sans l’avis d’un professionnel de santé, pour ne pas perturber ta flore.</p>"
           }
         }
       },
