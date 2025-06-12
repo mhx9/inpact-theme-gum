@@ -14,28 +14,28 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_RbEznQ": {
+        "message": {
           "type": "message",
           "settings": {
             "text": "LIVRAISON OFFERTE",
             "url": ""
           }
         },
-        "message": {
+        "message_rAqUpF": {
           "type": "message",
           "settings": {
             "text": "STOCKS BIENTÔT ÉPUISÉS",
             "url": ""
           }
         },
-        "message_8t8Q3x": {
+        "message_dWLFQt": {
           "type": "message",
           "settings": {
             "text": "SATISFAIT OU REMBOURSÉ",
             "url": ""
           }
         },
-        "message_ahqGbV": {
+        "message_zTRbcj": {
           "type": "message",
           "settings": {
             "text": "OFFRE -50% Aujourd'hui Uniquement",
@@ -44,17 +44,17 @@
         }
       },
       "block_order": [
-        "message_RbEznQ",
         "message",
-        "message_8t8Q3x",
-        "message_ahqGbV"
+        "message_rAqUpF",
+        "message_dWLFQt",
+        "message_zTRbcj"
       ],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#698993",
+        "background": "#244c86",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -64,9 +64,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/logo_ov_4.png",
-        "logo_max_width": 155,
-        "logo_mobile_max_width": 100,
+        "logo": "shopify://shop_images/Votre_texte_de_paragraphe.png",
+        "logo_max_width": 200,
+        "logo_mobile_max_width": 125,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
