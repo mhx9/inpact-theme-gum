@@ -8,86 +8,118 @@
  * ------------------------------------------------------------
  */
 {
-  "type": "header",
-  "name": "Header group",
+  "type": "footer",
+  "name": "Footer group",
   "sections": {
-    "announcement-bar": {
-      "type": "announcement-bar",
+    "text-with-icons": {
+      "type": "text-with-icons",
       "blocks": {
-        "message": {
-          "type": "message",
+        "free-shipping": {
+          "type": "item",
           "settings": {
-            "text": "LIVRAISON OFFERTE",
-            "url": ""
+            "icon": "picto-box",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Livraison offerte à partir de 50€",
+            "content": ""
           }
         },
-        "message_rAqUpF": {
-          "type": "message",
+        "customer-support": {
+          "type": "item",
           "settings": {
-            "text": "STOCKS BIENTÔT ÉPUISÉS",
-            "url": ""
+            "icon": "picto-customer-support",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Service Client 7J/7",
+            "content": ""
           }
         },
-        "message_dWLFQt": {
-          "type": "message",
+        "discount": {
+          "type": "item",
           "settings": {
-            "text": "SATISFAIT OU REMBOURSÉ",
-            "url": ""
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Satisfait ou remboursé",
+            "content": ""
           }
         },
-        "message_zTRbcj": {
-          "type": "message",
+        "payment": {
+          "type": "item",
           "settings": {
-            "text": "OFFRE -50% Aujourd'hui Uniquement",
-            "url": ""
+            "icon": "picto-lock",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Paiement sécurisé",
+            "content": ""
           }
         }
       },
       "block_order": [
-        "message",
-        "message_rAqUpF",
-        "message_dWLFQt",
-        "message_zTRbcj"
+        "free-shipping",
+        "customer-support",
+        "discount",
+        "payment"
       ],
-      "disabled": true,
       "settings": {
-        "enable_sticky": false,
-        "text_size": "text-xs",
-        "navigation_mode": "scrolling",
-        "scrolling_speed": 10,
-        "background": "#244c86",
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h6",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": ""
       }
     },
-    "header": {
-      "type": "header",
-      "disabled": true,
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "Nous contacter",
+            "content": "<p>Service client : contact@scholl-derma.fr</p>",
+            "enable_follow_on_shop": true
+          }
+        }
+      },
+      "block_order": [
+        "links",
+        "text"
+      ],
       "settings": {
-        "enable_sticky": true,
-        "hide_on_scroll": false,
-        "logo_max_width": 200,
-        "logo_mobile_max_width": 125,
-        "menu": "main-menu",
-        "sidebar_menu": "",
-        "secondary_menu": "",
-        "menu_open_trigger": "click",
-        "opening_from": "bottom",
-        "layout": "logo_center_navigation_inline",
         "show_social_media": true,
-        "show_locale_selector": true,
+        "show_payment_icons": true,
         "show_country_selector": true,
         "show_country_flag": true,
-        "show_country_name": false,
-        "transparent_header_text_color": "#ffffff",
-        "reduce_padding": false,
-        "background_opacity": 100,
-        "background_blur_radius": 0
+        "show_country_name": true,
+        "show_locale_selector": true
       }
     }
   },
   "order": [
-    "announcement-bar",
-    "header"
+    "text-with-icons",
+    "footer"
   ]
 }
