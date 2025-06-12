@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
+            "text": "STOCKS BIENTÔT ÉPUISÉS",
+            "url": ""
+          }
+        },
+        "message_8t8Q3x": {
+          "type": "message",
+          "settings": {
             "text": "Announce something here",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_8t8Q3x"
       ],
       "settings": {
         "enable_sticky": false,
