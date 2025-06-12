@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_RbEznQ": {
+          "type": "message",
+          "settings": {
+            "text": "LIVRAISON OFFERTE",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
@@ -34,20 +41,13 @@
             "text": "OFFRE -50% Aujourd'hui Uniquement",
             "url": ""
           }
-        },
-        "message_RbEznQ": {
-          "type": "message",
-          "settings": {
-            "text": "LIVRAISON OFFERTE",
-            "url": ""
-          }
         }
       },
       "block_order": [
+        "message_RbEznQ",
         "message",
         "message_8t8Q3x",
-        "message_ahqGbV",
-        "message_RbEznQ"
+        "message_ahqGbV"
       ],
       "settings": {
         "enable_sticky": false,
