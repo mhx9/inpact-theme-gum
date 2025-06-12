@@ -49,6 +49,7 @@
         "message_dWLFQt",
         "message_zTRbcj"
       ],
+      "disabled": true,
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
@@ -61,10 +62,10 @@
     },
     "header": {
       "type": "header",
+      "disabled": true,
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Votre_texte_de_paragraphe.png",
         "logo_max_width": 200,
         "logo_mobile_max_width": 125,
         "menu": "main-menu",
