@@ -945,12 +945,68 @@
             "title": "En combien de temps vais-je voir des résultats ?",
             "content": "<p>Chaque corps est unique, mais les premières clientes ressentent généralement une <strong>différence en 7 à 14 jours</strong> :<br/><br/>- Moins d’odeurs désagréables ou “acides”</p><p>- Une sensation de fraîcheur plus durable</p><p>- Plus de confort intime et digestif</p><p>- Une meilleure confiance corporelle<br/><br/>Pour un résultat optimal et durable, nous recommandons une <strong>cure de 30 jours minimum</strong>, à renouveler régulièrement pour un équilibre profond.</p>"
           }
+        },
+        "item_M9eiWq": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_EFLare": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_ggpXMX": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_DyBBwb": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_pXGiY3": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_UMVzXC": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_GfNnTE": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_M9eiWq",
+        "item_EFLare",
+        "item_ggpXMX",
+        "item_DyBBwb",
+        "item_pXGiY3",
+        "item_UMVzXC",
+        "item_GfNnTE"
       ],
       "settings": {
         "full_width": false,
