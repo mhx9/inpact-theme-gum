@@ -643,10 +643,10 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Ingrédients testés cliniquement",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -659,7 +659,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/1F58F3A2-AF9B-4DE8-961E-E960DF73D993.png",
-            "title": "Enfin Libre.",
+            "title": "Femme Libre.",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
