@@ -27,14 +27,21 @@
           "type": "heading",
           "settings": {
             "text": "ce que la nature fait de mieux",
-            "heading_tag": "h3"
+            "heading_tag": "h5"
           }
         },
         "heading_zL9VdU": {
           "type": "heading",
           "settings": {
             "text": "Libre de mon Corps. Libre de mon Odeur.",
-            "heading_tag": "h3"
+            "heading_tag": "h5"
+          }
+        },
+        "heading_YTrU8P": {
+          "type": "heading",
+          "settings": {
+            "text": "Confiance, féminité, liberté retrouvées",
+            "heading_tag": "h5"
           }
         }
       },
@@ -42,7 +49,8 @@
         "play_yYi8Cp",
         "heading_UNDGG9",
         "heading_NmeUK6",
-        "heading_zL9VdU"
+        "heading_zL9VdU",
+        "heading_YTrU8P"
       ],
       "settings": {
         "full_width": true,
