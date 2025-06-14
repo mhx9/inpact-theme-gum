@@ -14,10 +14,12 @@
       "blocks": {
         "play_yYi8Cp": {
           "type": "play",
+          "disabled": true,
           "settings": {}
         },
         "heading_UNDGG9": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "OVAÏA",
             "heading_tag": "h1"
