@@ -449,6 +449,7 @@
       "blocks": {
         "vendor": {
           "type": "vendor",
+          "disabled": true,
           "settings": {}
         },
         "title": {
@@ -646,6 +647,7 @@
         },
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "title": "Promote your products",
             "heading_tag": "h4",
@@ -687,14 +689,16 @@
         "full_width": true,
         "subheading": "",
         "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "content": "<p><strong>OVAÏA </strong>transforme votre rapport à votre odeur corporelle – en douceur, sans artifices, et naturellement, de l’intérieur.<br/></p><h2><strong>95 %</strong></h2><p>des utilisatrices rapportent une <strong>sensation de fraîcheur</strong> et de confort dès les<strong> 14 premiers jours</strong>.<br/></p><h2><strong>98 %</strong></h2><p>affirment ne plus <strong>se soucier de leur odeur corporelle</strong>, se sentant enfin <strong>libres, fraîches et en confiance</strong>, même sans parfum.<br/></p><h2><strong>98 %</strong></h2><p>ont intégré <strong>OVAÏA </strong>dans leur routine car OVAÏA les aide à <strong>se sentir bien dans leur corps</strong>, chaque jour.<br/><br/><br/></p>",
+        "before_image": "shopify://shop_images/Avant.png",
+        "after_image": "shopify://shop_images/Apres.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
         "before_text": "Before",
         "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
+        "drag_initial_position": 30,
+        "background": "#fcdae0",
         "background_gradient": "",
         "text_color": "",
         "before_text_color": "#ffffff",
@@ -971,22 +975,6 @@
         "chart_true_false_color": ""
       }
     },
-    "image_with_text_overlay_zaD6t8": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/bienfaits_ordi_1.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -1115,7 +1103,6 @@
     "hot-spots",
     "multiple-images-with-text",
     "feature-chart",
-    "image_with_text_overlay_zaD6t8",
     "faq"
   ]
 }
