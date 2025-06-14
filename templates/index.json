@@ -576,6 +576,82 @@
         "button_text_color": ""
       }
     },
+    "multi_column_p7m9A6": {
+      "type": "multi-column",
+      "blocks": {
+        "item_nJM4Ym": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-25T173139.093.webp",
+            "column_size": "4",
+            "title": "Bacillus Coagulans SNZ1969™",
+            "heading_tag": "h4",
+            "content": "<p>Rétablit l’équilibre de ta flore intime et digestive, pour une odeur corporelle <strong>plus douce, plus neutre<br/></strong><br/>Agit à la <strong>source des déséquilibres</strong> qui provoquent des odeurs, acides ou fermentées</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MzLNNY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-25T173154.143.webp",
+            "column_size": "4",
+            "title": "Extrait naturel d’ananas",
+            "heading_tag": "h4",
+            "content": "<p>Contribue à <strong>adoucir ton odeur naturelle</strong> avec un goût fruité agréable<br/><br/>Améliore la digestion, réduisant les <strong>fermentations internes</strong> responsables des odeurs fortes</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_K6TtYX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-25T173058.155.webp",
+            "column_size": "4",
+            "title": "Vitamine C",
+            "heading_tag": "h4",
+            "content": "<p>Soutient la flore et la peau pour une odeur <strong>plus saine, plus stable<br/></strong><br/>Stimule l’immunité naturelle, <strong>évite les déséquilibres qui dérangent l’odeur</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_H48ibk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-25T175107.177.webp",
+            "column_size": "4",
+            "title": "Citrate de sodium",
+            "heading_tag": "h4",
+            "content": "<p>Aide à <strong>réguler le pH</strong>, limitant les pics d’odeurs corporelles</p><p>Diminue l’acidité responsable de certaines odeurs <strong>fortes ou désagréables</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_nJM4Ym",
+        "item_MzLNNY",
+        "item_K6TtYX",
+        "item_H48ibk"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media-grid": {
       "type": "media-grid",
       "blocks": {
@@ -1114,6 +1190,7 @@
     "featured-collection",
     "featured-product",
     "impact-text",
+    "multi_column_p7m9A6",
     "media-grid",
     "before-after-image",
     "image_with_text_overlay_CGyXXa",
