@@ -196,6 +196,40 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_LgTLMN": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/bienfaits_ordi_2.png",
+        "mobile_image": "shopify://shop_images/bienfaits_mobile.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_daqgRA": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ordi_nature.png",
+        "mobile_image": "shopify://shop_images/mobile_nature.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
@@ -1084,6 +1118,8 @@
     "slideshow",
     "logo_list_b9gzUT",
     "rich_text_3jaQxa",
+    "image_with_text_overlay_LgTLMN",
+    "image_with_text_overlay_daqgRA",
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
