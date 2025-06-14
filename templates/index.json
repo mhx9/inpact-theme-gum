@@ -29,12 +29,20 @@
             "text": "ce que la nature fait de mieux",
             "heading_tag": "h3"
           }
+        },
+        "heading_zL9VdU": {
+          "type": "heading",
+          "settings": {
+            "text": "Libre de mon Corps. Libre de mon Odeur.",
+            "heading_tag": "h3"
+          }
         }
       },
       "block_order": [
         "play_yYi8Cp",
         "heading_UNDGG9",
-        "heading_NmeUK6"
+        "heading_NmeUK6",
+        "heading_zL9VdU"
       ],
       "settings": {
         "full_width": true,
