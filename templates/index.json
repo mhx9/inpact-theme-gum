@@ -581,6 +581,7 @@
         "item-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/1F58F3A2-AF9B-4DE8-961E-E960DF73D993.png",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -602,6 +603,7 @@
         "item-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/World_Book_Day_Mockup_2.jpg",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -623,6 +625,7 @@
         "item-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Shot_18_3680_F_SM_1100x_7ec8f010-38bb-45cd-b04f-a69c0a7d0fb2.jpg",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
