@@ -605,7 +605,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/World_Book_Day_Mockup_2.jpg",
-            "title": "Promote your products",
+            "title": "Un goût d'ananas, un plaisir tropical.",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -627,8 +627,8 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Shot_18_3680_F_SM_1100x_7ec8f010-38bb-45cd-b04f-a69c0a7d0fb2.jpg",
-            "title": "Promote your products",
-            "heading_tag": "h4",
+            "title": "Je me sens bien. Et ça change tout.",
+            "heading_tag": "h5",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
