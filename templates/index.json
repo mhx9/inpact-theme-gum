@@ -1139,30 +1139,12 @@
             "modal_heading": "<h4>Modal Heading</h4>",
             "modal_text": "<p>Modal Text</p>"
           }
-        },
-        "video_gnhhUG": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Modal Heading</h4>",
-            "modal_text": "<p>Modal Text</p>"
-          }
-        },
-        "video_HnRYmw": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Modal Heading</h4>",
-            "modal_text": "<p>Modal Text</p>"
-          }
         }
       },
       "block_order": [
         "video_GCxWct",
         "video_mcLkDM",
-        "video_pXKiF7",
-        "video_gnhhUG",
-        "video_HnRYmw"
+        "video_pXKiF7"
       ],
       "name": "SS - Product Videos",
       "settings": {
