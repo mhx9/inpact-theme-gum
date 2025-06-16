@@ -611,19 +611,6 @@
     "multi_column_p7m9A6": {
       "type": "multi-column",
       "blocks": {
-        "item_nJM4Ym": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-25T173139.093.webp",
-            "column_size": "4",
-            "title": "Bacillus Coagulans SNZ1969™",
-            "heading_tag": "h4",
-            "content": "<p>Rétablit l’équilibre de ta flore intime et digestive, pour une odeur corporelle <strong>plus douce, plus neutre<br/></strong><br/>Agit à la <strong>source des déséquilibres</strong> qui provoquent des odeurs, acides ou fermentées</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_MzLNNY": {
           "type": "item",
           "settings": {
@@ -650,6 +637,19 @@
             "link_style": "link"
           }
         },
+        "item_nJM4Ym": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-25T173139.093.webp",
+            "column_size": "4",
+            "title": "Bacillus Coagulans SNZ1969™",
+            "heading_tag": "h4",
+            "content": "<p>Rétablit l’équilibre de ta flore intime et digestive, pour une odeur corporelle <strong>plus douce, plus neutre<br/></strong><br/>Agit à la <strong>source des déséquilibres</strong> qui provoquent des odeurs, acides ou fermentées</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_H48ibk": {
           "type": "item",
           "settings": {
@@ -665,9 +665,9 @@
         }
       },
       "block_order": [
-        "item_nJM4Ym",
         "item_MzLNNY",
         "item_K6TtYX",
+        "item_nJM4Ym",
         "item_H48ibk"
       ],
       "name": "Multi-column",
