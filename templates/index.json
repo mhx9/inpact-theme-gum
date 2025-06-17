@@ -639,7 +639,7 @@
         "item_tJMebX"
       ],
       "custom_css": [
-        ".section-full {padding-top: 10px; padding-bottom: 10px;}"
+        ".section-full {padding-top: 0px;}"
       ],
       "name": "Multi-column",
       "settings": {
