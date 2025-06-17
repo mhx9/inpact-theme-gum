@@ -599,7 +599,21 @@
         "item_ptzyGW": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/343559_8705703280876_02cda811_e180_44fc_a652_f93733ce5fdb.jpg",
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GhezzR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-17_223451.png",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -611,7 +625,8 @@
         "item_acDLXc": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/343559_8705703280876_83549648_5d1b_44e5_a594_fdec9f6f760d_715abad7-e57e-4395-a5be-395a01d188b0.jpg",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -623,7 +638,8 @@
         "item_tJMebX": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Captsassasasasasaure_1.jpg",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -635,6 +651,7 @@
       },
       "block_order": [
         "item_ptzyGW",
+        "item_GhezzR",
         "item_acDLXc",
         "item_tJMebX"
       ],
