@@ -21,8 +21,8 @@
       "settings": {
         "full_width": true,
         "subheading": "Contacter nous",
-        "title": "Une question ? Nous sommes là pour vous aider !",
-        "content": "",
+        "title": "Une question ?",
+        "content": "<p><br/> Nous sommes là pour vous aider !<br/><br/></p>",
         "text_position": "start",
         "contact_form_size": "large",
         "background": "",
